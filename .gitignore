@@ -1,0 +1,20 @@
+# Secrets
+KAGGLE_API_TOKEN*
+*.token
+kaggle.json
+.env
+
+# Archives de remise (doublons)
+*.zip
+Projet2_Pretraitement_CICDDoS2019_TjeckTjeckThomasNoel/
+
+# Énoncé du cours
+Projet 1 CYb6063*.pdf
+
+# Données et environnements
+data/
+CICDDoS2019_cache/
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/

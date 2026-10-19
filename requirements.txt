@@ -1,0 +1,12 @@
+# Projet 2 — Prétraitement de CIC-DDoS2019 — Tjeck Tjeck Thomas Noel
+# Versions exactes utilisées pour l'exécution (Google Colab, Python 3.13.16)
+pandas==2.2.3
+numpy==2.1.3
+scikit-learn==1.6.1
+imbalanced-learn==0.14.2
+matplotlib==3.10.0
+seaborn==0.13.2
+joblib==1.6.0
+pyarrow==23.0.1
+kagglehub==1.0.2
+jupyter
